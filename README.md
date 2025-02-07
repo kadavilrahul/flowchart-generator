@@ -2,13 +2,13 @@
 
 A streamlined setup for generating flowcharts. This tool helps automate the process of creating flowcharts in html and png format. Useful for AI workflows
 
-## Overview
+#### Overview
 
 This project provides an automated setup that:
 - Command line based flowchart generation environment
 - Handles all dependencies and configurations automatically
 
-## System Requirements
+#### System Requirements
 
 - Linux system with GUI (GUI needed to view files)
 
