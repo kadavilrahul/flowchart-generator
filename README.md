@@ -17,19 +17,18 @@ This project provides an automated setup that:
 
 **Note:** This setup should work on most other Linux distributions with minimal modifications. For headless servers, ensure you have GUI access through a remote desktop solution.
 
-## Quick Start
-
-Run these command in your Linux terminal:
+## Installation instructions (Run these command in your Linux terminal):
+1. Clone and move files to the current directory:
 
 ```bash
 git clone https://github.com/kadavilrahul/flowchart-generator.git flowchart-generator && mv flowchart-generator/setup_flowchart.sh flowchart-generator/generate.sh . && rm -rf flowchart-generator
-
 ```
-## First time setup and run script
+
+2. First time setup and run script
 ```bash
 bash setup_flowchart.sh
 ```
-## Rerun
+3. Rerun
 ```bash
 bash generate.sh
 ```
