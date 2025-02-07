@@ -49,7 +49,8 @@ echo "-----------------"
 check_venv
 
 # Get the Python file
-read -p "Enter the Python file name (e.g., main.py): " python_file
+read -p "Enter the Python file name (default: main.py): " python_file
+python_file=${python_file:-main.py}  # Use main.py if no input provided
 
 # Check if file exists
 if [ ! -f "$python_file" ]; then

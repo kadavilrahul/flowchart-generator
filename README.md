@@ -22,7 +22,14 @@ This project provides an automated setup that:
 Run this command in your Linux terminal:
 
 ```bash
-git clone https://github.com/kadavilrahul/flowchart-generator && cd flowchart && bash setup_flowchart.sh
+git clone https://github.com/kadavilrahul/flowchart-generator.git flowchart-generator && mv flowchart-generator/setup_flowchart.sh flowchart-generator/generate.sh . && rm -rf flowchart-generator
+
+```
+```bash
+bash setup_flowchart.sh
+```
+```bash
+bash generate.sh
 ```
 
 ## Features
