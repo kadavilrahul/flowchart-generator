@@ -12,12 +12,14 @@ This project provides an automated setup that:
 
 - Linux system with GUI (GUI needed to view files)
 
-### Tested on:
+#### Tested on:
 - Ubuntu 24.04 LTS
 
 **Note:** This setup should work on most other Linux distributions with minimal modifications. For headless servers, ensure you have GUI access through a remote desktop solution.
 
-## Installation instructions (Run these command in your Linux terminal):
+## Installation Instructions 
+(Run these command in your Linux terminal):
+
 1. Clone and move files to the current directory:
 
 ```bash
