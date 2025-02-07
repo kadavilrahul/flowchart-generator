@@ -10,7 +10,7 @@ This project provides an automated setup that:
 
 ## System Requirements
 
-- Linux system with GUI (GUI needed for browser access)
+- Linux system with GUI (GUI needed to view files)
 
 ### Tested on:
 - Ubuntu 24.04 LTS
