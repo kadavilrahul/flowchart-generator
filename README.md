@@ -25,11 +25,11 @@ Run these command in your Linux terminal:
 git clone https://github.com/kadavilrahul/flowchart-generator.git flowchart-generator && mv flowchart-generator/setup_flowchart.sh flowchart-generator/generate.sh . && rm -rf flowchart-generator
 
 ```
-# First time setup and run script
+## First time setup and run script
 ```bash
 bash setup_flowchart.sh
 ```
-# Rerun
+## Rerun
 ```bash
 bash generate.sh
 ```
